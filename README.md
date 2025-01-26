@@ -53,7 +53,7 @@ $ pip install -r requirements.txt
 Start the chatbot locally with:
 
 ```bash
-$ streamlit run trail.py
+$ streamlit run main.py
 ```
 
 Open the provided URL in your browser to interact with the chatbot.
